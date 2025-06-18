@@ -120,13 +120,13 @@ footer {
     background-color: var(--white);
 }
 
-.social_box:hover .social_img {
-    filter: brightness(0) invert(1) sepia(1) saturate(1000%) hue-rotate(260deg);
-}
-
 .social_img {
     width: 1rem;
     height: 1rem;
+}
+
+.social_box:hover .social_img {
+    filter: brightness(0) invert(1) sepia(1) saturate(1000%) hue-rotate(260deg);
 }
 
 .attribution { 
