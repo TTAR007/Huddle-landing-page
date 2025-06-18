@@ -66,6 +66,6 @@ Next project, I will focus on writing the html and css more organized and easy t
 
 ## Author
 
-- Website - [Not available]()
+- Website - Not available yet
 - Frontend Mentor - [@TTAR007](https://www.frontendmentor.io/profile/TTAR007)
 - Twitter - [@T_TAR_007](https://www.twitter.com/T_TAR_007)
